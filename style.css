@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(216, 241, 235);
+}
+
+hr{
+    border-style: none;
+    border-top: dotted 5px;
+    color: azure;
+    
+    height: 2px;
+    width: 20%;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
